@@ -1,3 +1,5 @@
+![Banner](Python Secure Coding Exercise.png)
+
 # 🧠 Python Secure [Topic] Exercise
 
 This project demonstrates secure coding practices in Python, focusing on [topic].  
