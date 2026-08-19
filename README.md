@@ -1,4 +1,4 @@
-![Banner](Python Secure Coding Exercise.png)
+![Banner](Python-Secure-Coding-Exercise.png)
 
 # 🧠 Python Secure [Topic] Exercise
 
