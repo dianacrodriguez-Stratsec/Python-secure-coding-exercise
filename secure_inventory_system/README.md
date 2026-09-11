@@ -21,6 +21,3 @@ This project simulates secure data handling similar to:
 
 ![Execution Screenshot](Representación_cumplimiento_traducido.png)
 
-## ▶️ How to Run
-```bash
-python sistema_inventario.py
