@@ -18,10 +18,8 @@ Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS 
 
 ## 🚀 Professional Context
 This project simulates secure data handling similar to:
-- ISMS asset management
-- DORA ICT risk management
-- Secure automation for compliance reporting
-- Internal tooling for GRC teams
+
+![Execution Screenshot](Representación_cumplimiento_traducido.png)
 
 ## ▶️ How to Run
 ```bash
