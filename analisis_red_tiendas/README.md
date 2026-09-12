@@ -1,8 +1,3 @@
-<img width="1448" height="936" alt="image" src="https://github.com/user-attachments/assets/118e4248-a292-405f-a09f-3b96709d82d6" /># Retail Network Analysis 🧩
-
-Este proyecto aplica principios de **DevSecOps** y **ISO 27001 / DORA** al análisis de datos de una red de tiendas minoristas, utilizando **Python**, **Pandas**, **NumPy** y **Seaborn**.
-
----
 
 ## 🎯 Propósito
 Desarrollado como parte del curso de UNIR, este notebook demuestra cómo integrar seguridad, calidad de datos y resiliencia operativa en procesos analíticos.  
@@ -34,9 +29,8 @@ El objetivo es identificar correlaciones entre **ventas**, **inventarios** y **s
 ---
 
 ## 📸 Evidencia visual
-- `visuals/ingresos_por_tienda.png`  
-- `visuals/rotacion_inventarios.png`  
-- `visuals/relacion_satisfaccion_ventas.png`
+- `visuals/Satisfaccion_ventas.png`  
+- `visuals/Ingresos por tienda.png`  
 
 ---
 
