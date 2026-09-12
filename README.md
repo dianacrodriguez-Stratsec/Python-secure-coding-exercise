@@ -35,6 +35,20 @@ This repository demonstrates secure coding principles aligned with international
 These exercises illustrate how secure coding supports compliance with ISO 27001 and DORA by embedding resilience, validation, and accountability into the software development process.  
 They serve as practical examples of how technical controls translate into regulatory compliance for FinTech and GRC environments.
 
+### 🔹 Applied Project: Retail Network Analysis
+
+This repository also includes the project **`analisis_red_tiendas`**, which extends secure coding principles to data analytics and operational resilience.
+
+It demonstrates how **data validation, modular analysis, and controlled error handling** can be aligned with ISO 27001 and DORA frameworks in a business intelligence context.
+
+Key highlights:
+- Secure data ingestion and cleaning using Pandas and NumPy.
+- Structured analysis of sales, inventory rotation, and customer satisfaction.
+- Simulation of future sales scenarios to test operational resilience.
+- Integration of ISO 27001 controls (A.12.6.1, A.14.2.5, A.14.2.9) and DORA principles (Art. 11–12, Art. 24–27).
+- Visual reporting aligned with DevSecOps and GRC standards.
+
+
 ## 👩‍💻 Author
 **Diana Carolina Rodriguez Casas**  
 Cybersecurity & GRC Professional | ISO 27001 | SOX | AI Security  
