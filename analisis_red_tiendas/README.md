@@ -36,9 +36,9 @@ El objetivo es identificar correlaciones entre **ventas**, **inventarios** y **s
 
 ## 🚀 Contexto profesional
 Este proyecto simula un entorno de **Data Governance y GRC (Governance, Risk & Compliance)**, donde el análisis de datos se alinea con los principios de:
-- **ISO 27001** → Seguridad e integridad de la información  
-- **DORA** → Resiliencia operativa y continuidad del negocio  
-- **DevSecOps** → Integración de seguridad en el ciclo de desarrollo analítico  
+
+![Execution Screenshot](27001.png)
+![Execution Screenshot](DORA.png)
 
 ---
 
