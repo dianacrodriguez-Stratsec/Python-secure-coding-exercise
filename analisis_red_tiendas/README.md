@@ -29,9 +29,8 @@ El objetivo es identificar correlaciones entre **ventas**, **inventarios** y **s
 ---
 
 ## 📸 Evidencia visual
-## 📸 Evidence
-![Execution Screenshot](Satisfaccion_ventaspng)
-![Execution Screenshot](Ingresos por tiendapng)
+![Execution Screenshot](Satisfaccionventas.png)
+![Execution Screenshot](Ingresosportienda.png)
 
 ---
 
