@@ -21,8 +21,7 @@ Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS 
 
 ## 📸 Evidence  
 Execution Screenshot  
-*(insert image using Markdown)*  
-```markdown
+
 ![Execution Screenshot](Correlacionessuperstore.png)
 
 
