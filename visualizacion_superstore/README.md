@@ -1,72 +1,47 @@
+📊 Superstore Data Visualization Project 🛡️
+This project demonstrates data analysis and visualization practices in Python using Pandas, Matplotlib, and Seaborn. It includes univariate, bivariate, and multivariate visualizations, structured analysis, and secure data handling aligned with professional standards.
 
-📊 Superstore Data Visualization Project
-Analysis of the superstore_dataset2012.csv dataset using Pandas, Matplotlib, and Seaborn.
+🎯 Purpose
+Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS (ISO 27001 / DORA) principles applied to data processing, visualization integrity, and reproducible analytical workflows.
 
-🎯 Project Objectives
-Load and explore the dataset.
+🧠 Skills Demonstrated
+Secure data loading and validation
 
-Perform univariate, bivariate, and multivariate visualizations.
+Cleaning and preprocessing (null handling, date conversion)
 
-Create a Matplotlib figure with four subplots.
+Univariate visualizations (histograms, boxplots)
 
-Save at least one visualization as an image file.
+Bivariate visualizations (scatter plots, regression plots)
 
-Provide conclusions based on the visual analysis.
+Multivariate visualization (correlation heatmap)
 
-📁 Project Structure
-Código
-visualizacion_superstore/
-│
-├── visualizacion_superstore.ipynb
-├── superstore_dataset2012.csv
-├── figuras/
-│   ├── heatmap_correlaciones_superstore.png
-│   ├── subplots_superstore.png
-│   ├── histograma_ventas.png
-│   └── dispersion_ventas_beneficio.png
-└── README.md
-📈 Visualizations Included
-🔹 1. Sales Histogram
-Univariate visualization using Matplotlib.
+Matplotlib subplot design (4‑panel figure)
 
-🔹 2. Profit Boxplot by Category
-Univariate visualization using Seaborn.
+Saving visualizations as reproducible evidence
 
-🔹 3. Sales vs Profit Scatter Plot
-Bivariate visualization using Matplotlib.
+Data integrity checks using Python (os.path.exists)
 
-🔹 4. Regression Plot (Sales vs Profit)
-Bivariate visualization using Seaborn.
+Documentation aligned with ISO 27001 / DORA compliance mindset
 
-🔹 5. Correlation Heatmap
-Multivariate visualization using Seaborn.
-📁 Saved as: figuras/heatmap_correlaciones_superstore.png
+📸 Evidence
+Execution Screenshot
 
-🔹 6. Four-Panel Subplot Figure
-Matplotlib figure containing histogram, boxplot, scatter plot, and bar chart.
-📁 Saved as: figuras/subplots_superstore.png
+Correlacionessuperstore.png
 
-🧠 Key Insights
-There is a positive correlation between Sales and Profit, indicating that higher sales generally lead to higher profitability.
 
-Product quantity does not strongly correlate with profit, suggesting that selling more units does not always guarantee higher earnings.
+Additional saved plots (optional)
 
-Category-level analysis shows that high sales categories are not always the most profitable.
+🚀 Professional Context
+This project simulates secure and traceable data handling similar to:
 
-The heatmap provides a clear overview of relationships between numerical variables.
+Internal reporting dashboards
 
-The subplot figure offers a consolidated view of the dataset’s behavior across multiple dimensions.
+GRC (Governance, Risk & Compliance) data analysis
 
-🔐 ISO 27001 vs DORA Mapping Table
-Professional compliance-style table aligned with your cybersecurity background.
+ISO 27001 control evidence generation
 
-🛠 Technologies Used
-Python 3.x
+DORA operational resilience documentation
 
-Pandas
+Secure analytics pipelines in regulated environments
 
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
+Execution Screenshot
