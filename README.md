@@ -10,11 +10,16 @@ It was developed as part of academic exercises and adapted to align with cyberse
 - Safe data manipulation
 - Modular and reusable code design
 - Defensive programming principles
+- Exception handling and resilience
+- Secure data processing aligned with ISO 27001 controls
+- DevSecOps mindset for safe scripting
 
 ## 🧠 Technologies
 - Python 3.x
 - Control structures (`if`, `for`, `while`)
 - Functions and exception handling
+- Pandas / NumPy (for data analysis)
+- Matplotlib / Seaborn (for visualization)
 
 ## 🛡️ Compliance Alignment (ISO 27001 & DORA)
 
