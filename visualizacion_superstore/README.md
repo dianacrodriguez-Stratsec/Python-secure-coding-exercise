@@ -1,32 +1,30 @@
-📊 Superstore Data Visualization Project 🛡️
-This project demonstrates data analysis and visualization practices in Python using Pandas, Matplotlib, and Seaborn. It includes univariate, bivariate, and multivariate visualizations, structured analysis, and secure data handling aligned with professional standards.
+# 🛡️ Secure Inventory System
 
-🎯 Purpose
-Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS (ISO 27001 / DORA) principles applied to data processing, visualization integrity, and reproducible analytical workflows.
+This project demonstrates secure coding practices in Python using Object‑Oriented Programming (OOP), input validation, exception handling, and interactive CLI design.
 
-🧠 Skills Demonstrated
-Secure data loading and validation
+---
 
-Cleaning and preprocessing (null handling, date conversion)
+## 🎯 Purpose  
+Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS (ISO 27001 / DORA) principles.
 
-Univariate visualizations (histograms, boxplots)
+---
 
-Bivariate visualizations (scatter plots, regression plots)
+## 🧠 Skills Demonstrated  
+- Secure input validation (prevents negative values, empty names)  
+- Exception handling and resilience  
+- Object‑Oriented Programming (Producto, Inventario)  
+- CLI automation  
+- Secure data processing aligned with ISO 27001 controls  
+- DevSecOps mindset for safe scripting  
 
-Multivariate visualization (correlation heatmap)
+---
 
-Matplotlib subplot design (4‑panel figure)
+## 📸 Evidence  
+Execution Screenshot  
+*(insert image using Markdown)*  
+```markdown
+![Execution Screenshot](figuras/execution_screenshot.png)
 
-Saving visualizations as reproducible evidence
-
-Data integrity checks using Python (os.path.exists)
-
-Documentation aligned with ISO 27001 / DORA compliance mindset
-
-📸 Evidence
-Execution Screenshot
-
-Correlacionessuperstore.png
 
 
 Additional saved plots (optional)
