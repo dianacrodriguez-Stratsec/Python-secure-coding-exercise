@@ -23,7 +23,7 @@ Developed as part of UNIR coursework and adapted to showcase DevSecOps and ISMS 
 Execution Screenshot  
 *(insert image using Markdown)*  
 ```markdown
-![Execution Screenshot](figuras/execution_screenshot.png)
+![Execution Screenshot](figuras/Correlacionessuperstore.png)
 
 
 
